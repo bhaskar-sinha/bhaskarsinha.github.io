@@ -18,8 +18,9 @@
 
 - 📫 How to reach me **prof.b.sinha@gmail.com**
 
--  📝 My Resume  
+-  - # Bhaskar Sinha's Resume
 
+You can view my latest resume here: [Resume PDF](https://github.com/bhaskarsinha/bhaskarsinha-resume/raw/main/resume.pdf)
 -
 
 <h3 align="left">Connect with me:</h3>
