@@ -1,0 +1,131 @@
+/* General Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Navigation */
+header {
+  background-color: #eae7d6;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Intro Section */
+.intro {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.profile-pic {
+  width: 60%;
+ 
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 10px;
+  color: #4a4a4a;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #a4a4a4;
+  margin-bottom: 20px;
+}
+
+.contact-links {
+  margin: 20px 0;
+}
+
+.contact-links a {
+  text-decoration: none;
+  font-size: 1.2em;
+  margin: 0 10px;
+  color: #333;
+}
+
+.contact-links a:hover {
+  color: #0077b5; /* LinkedIn blue */
+}
+
+/* Bio Section */
+.bio {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.bio p {
+  margin-bottom: 15px;
+  font-size: 1.1em;
+}
+
+.bio a {
+  color: #0077b5;
+  text-decoration: none;
+}
+
+.bio a:hover {
+  text-decoration: underline;
+}
+
+/* Footer or Additional Sections if needed */
+footer {
+  margin-top: 20px;
+  text-align: center;
+  padding: 20px;
+  background-color: #eae7d6;
+  color: #333;
+}
+
+.bio p {
+  margin-bottom: 15px;
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+.bio a {
+  color: #0077b5;
+  text-decoration: none;
+}
+
+.bio a:hover {
+  text-decoration: underline;
+}
+
+.box{
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 4px 5px 25px gray;
+}
