@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prof.b.sinha@gmail.com**
 
--   Bhaskar Sinha's Resume : [Resume PDF]()
+-   Bhaskar Sinha's Resume : [Resume PDF](Bhaskar_Sinha_Resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
